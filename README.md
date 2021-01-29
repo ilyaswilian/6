@@ -7,7 +7,7 @@ BOT WHATSAPP TERMUX ONLY BY 𝐈𝐥𝐲𝐚𝐬 𝐖𝐢𝐥𝐢𝐚𝐧
 <a href="#"><img title="👾𝗜𝗟𝗬𝗔𝗦-𝗪𝗜𝗟𝗜𝗔𝗡👾" src="https://img.shields.io/badge/ilyas-wilian-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ilyas-wilian"><img title="XP-TNNBOT" src="https://img.shields.io/badge/AUTHOR-ilyas-wilian ID-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ilyas-wilian"><img title="Ilyas-wilian" src="https://img.shields.io/badge/AUTHOR-ilyas-wilian ID-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/XP-TN/ilyas wilian"><img title="Rating" src="https://www.codefactor.io/repository/github/XP-TN/XP-TNNBOT/badge/master"></a>
