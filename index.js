@@ -74,7 +74,7 @@ conn.on('qr', qr =>
    {
       small: true
    });
-   console.log(`[ ${moment().format("HH:mm:ss")} ] XP-TN Ready scan now!`);
+   console.log(`[ ${moment().format("HH:mm:ss")} ] ilyasbot Ready scan now!`);
 });
 
 conn.on('credentials-updated', () =>
@@ -89,11 +89,11 @@ fs.existsSync('./session.json') && conn.loadAuthInfo('./session.json')
 //conn.connectOptions.agent = ProxyAgent ('http://1.0.180.120:8080')
 conn.connect();
 
-conn.on('user-presence-update', json => console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @mragung23`))
+conn.on('user-presence-update', json => console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @cc3061338sdt`))
 conn.on('message-status-update', json =>
 {
    const participant = json.participant ? ' (' + json.participant + ')' : '' // participant exists when the message is from a group
-   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @mragung23`)
+   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @cc2061338sdt`)
 })
 
 conn.on('message-new', async(m) =>
@@ -149,10 +149,10 @@ else if (text == 'Assalamualaikum'){
 conn.sendMessage(id, 'Waalaikumsalam, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == 'p'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
+conn.sendMessage(id, 'papepape,Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == 'P'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
+conn.sendMessage(id, 'papepape,Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == 'Halo'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
@@ -230,10 +230,10 @@ else if (text == 'Cuy'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == '.frendsowner'){
-conn.sendMessage(id, 'kawan1 iskandar wa.me/+60136670107' ,MessageType.text);
+conn.sendMessage(id, 'kawan1 Ilyas wa.me/+62895704283153' ,MessageType.text);
 }
 else if (text == '.coowner'){
-conn.sendMessage(id, 'kawan2 testing script wa.me/+6282232931618' ,MessageType.text);
+conn.sendMessage(id, 'kawan2 testing script wa.me/+62895704283153' ,MessageType.text);
 }
 else if (text == '.groupbot'){
 conn.sendMessage(id, 'group bot whatsapp https://chat.whatsapp.com/GDdd0I3WlF5LnMVifmS7rN' ,MessageType.text);
@@ -260,10 +260,10 @@ else if (text == 'Euy'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == 'makasi'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
+conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan-!! :)' ,MessageType.text);
 }
 else if (text == 'Makasi'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
+conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan-!! :)' ,MessageType.text);
 }
 else if (text == 'makasih'){
 conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
