@@ -6,7 +6,7 @@
 * reupload izin anjg gua gua cape buat nya!!
 * ini script pribadi gua!!
 */
-const XPTN = '👾ilyas-wilian👾'; // Nama Bot Whatsapp
+const Ilyasu = '👾ilyas-wilian👾'; // Nama Bot Whatsapp
 const instagram = 'https://instagram.com/cc2061338sdt'; // Nama Instagramlu cok
 const nomer = 'https://Wa.me/+62895704283153'; // Nomor whatsapplu cok
 const aktif = 'Tergantung jaringan'; // Kapan bot lu aktif
