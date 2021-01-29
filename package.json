@@ -1,5 +1,5 @@
 {
-  "name": "XP-TNNBOT",
+  "name": "Ilyas Wilian",
   "version": "1.0.0",
   "description": "Termux only",
   "main": "index.js",
@@ -29,12 +29,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XP-TN/XP-TNNBOT.git"
+    "url": "git+https://github.com/ilyaswilian/6.git"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Ilyas Wilian",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/XP-TN/XP-TNNBOTT/issues"
