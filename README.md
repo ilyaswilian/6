@@ -1,10 +1,10 @@
-# 👾XP-TNBOT👾
+# 👾𝑰𝒍𝒚𝒂𝒔 𝑾𝒊𝒍𝒊𝒂𝒏 𝑩𝒐𝒕👾
 BOT WHATSAPP TERMUX ONLY BY XP-TN
 <p align="center">
 <img src = "https://avatars3.githubusercontent.com/u/49530313?s=460&u=086c7b0d17c5b8e906200d810e88587f5c98e349&v=4" width="320">
 </p>
 <p align="center">
-<a href="#"><img title="👾XP-TN👾" src="https://img.shields.io/badge/XP-TN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="👾𝗜𝗟𝗬𝗔𝗦-𝗪𝗜𝗟𝗜𝗔𝗡👾" src="https://img.shields.io/badge/XP-TN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/XP-TN"><img title="XP-TNNBOT" src="https://img.shields.io/badge/AUTHOR-XP-TN ID-orange.svg?style=for-the-badge&logo=github"></a>
@@ -45,31 +45,31 @@ Siapin alat dan bahannya.
 ```
 
 ##Full Tools Pribadi script😊
-Thanks To Xp-tn for share script🛡
+Thanks To 𝙸𝚕𝚢𝚊𝚜 𝚆𝚒𝚕𝚒𝚊𝚗 for share script🛡
 ```bash
 >Jika error harap lapor ke owner pembuat skript
 > dan jika ada bug harap lapor ya😊
-> thanks for alfa chaliph xptn 
+> thanks for 𝐈𝐥𝐲𝐚𝐬 𝐖𝐢𝐥𝐢𝐚𝐧 
 ```
 
 
 ### Informasi Pengguna
-Script ini di modifikasi sama saya sendiri XP-TN
+Script ini di modifikasi sama saya sendiri 𝙄𝙡𝙮𝙖𝙨 𝙒𝙞𝙡𝙞𝙖𝙣
 ```bash
 > Support My Github😘
 > Jangan Lupa follow github saya🤗
 > jika error lapor ke Pembuat script chat wa link ada di github 
 ```
 ### Cara Installnya
-Script ini di modifikasi sama saya sendiri XP-TN.
+Script ini di modifikasi sama saya sendiri 𝙸𝚕𝚢𝚊𝚜 𝚆𝚒𝚕𝚒𝚊𝚗.
 ```bash
 kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > termux-setup-storage
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/XP-TN/XP-TNNBOT
-> cd XP-TNNBOT
+> git clone https://github.com/ilyaswilian/6
+> cd 6
 > npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
 ```
@@ -79,7 +79,7 @@ Siapin alat dan bahannya.
 > Download Nodejs
 > jika udah open laLU install script ini
 > jika udh semua kalian pindahkan ke localdisk c
-> jika udah ketik di nodejs nya cd C:\XP-TNNBOT-main
+> jika udah ketik di nodejs nya cd C:\6-main
 > npm i ytdl
 > npm i cwebp
 > npm i
@@ -93,7 +93,7 @@ Github ini dan support😅
 ```
 ## Features
 
-| XP-TNBOT      |                   Feature        |
+| 𝐈𝐥𝐲𝐚𝐬𝐖-𝐁𝐎𝐓      |                   Feature        |
  :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
@@ -131,12 +131,12 @@ Github ini dan support😅
 |                   MORE                           |
 
 ## Note
-BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (XP-TN)
+BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (𝐈𝐋𝐘𝐀𝐒 𝐖𝐈𝐋𝐈𝐀𝐍)
 
 ## Sosial Media Admin
 * [`Youtube Admin`](https://www.youtube.com/channel/UCMiQsqzWvj-zKxNlFlG_Wiw)
-* [`Instagram Admin`](https://instagram.com/mragung23)
-* [`WhatsApp Admin `](https://wa.me/+6289655478810)
+* [`Instagram Admin`](https://instagram.com/cc2061338sdt)
+* [`WhatsApp Admin `](https://wa.me/+62895704283153)
 
 ##THANKS TO MY FRENDS
 * [`caliph71 Github`](https://github.com/Caliph71)
